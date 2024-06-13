@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayk221b&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayk221b" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/sanjaykeloth/</h3>
 <p align="left">
 </p>
 
